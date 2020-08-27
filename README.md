@@ -1,2 +1,2 @@
 # Project_MPEI
-Application that uses a MinHash and a Counting Bloom Filter to analyze .txt files and indicate if plagiarism exists
+Application containing three modules (Stochastic Counter, MinHash and Counting Bloom Filter) designed to analyze .txt files and indicate if plagiarism exists.
