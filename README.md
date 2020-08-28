@@ -2,11 +2,11 @@
 
 ### About the project
 An application designed to analyze .txt files and detect plagiarism.<br>
-The [main app](DemonstracaoConjunta/Main.java) consists of three components:
+The main app consists of [three components](Modulos):
 <ul>
-<li>[Stochastic Counter](Modulos/ContadorEstoc.java)</li>
-<li>[Counting Bloom Filter](Modulos/CountingBloomFilter.java)</li>
-<li>[MinHash](Modulos/MinHash.java)</li>
+<li>Stochastic Counter</li>
+<li>Counting Bloom Filter</li>
+<li>MinHash</li>
 </ul>
 
 The existing .txt files serve to test the [main app](DemonstracaoConjunta/Main.java), aswell as [component testing](TestesModulos), but any other .txt files can be used.
