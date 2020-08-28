@@ -9,7 +9,7 @@ The main app consists of [three components](Modulos):
 <li>MinHash</li>
 </ul>
 
-The existing .txt files serve to test the [main app](DemonstracaoConjunta/Main.java), aswell as [component testing](TestesModulos), but any other .txt files can be used.
+The existing .txt files serve to test the [main app](DemonstracaoConjunta/Main.java), as well as [component testing](TestesModulos), but any other .txt files can be used.
 
 ### Detailed description/usage
 Read the project report -> [**RelatorioMPEI.pdf**](RelatorioMPEI.pdf).
