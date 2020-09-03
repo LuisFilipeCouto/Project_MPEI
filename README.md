@@ -2,7 +2,7 @@
 
 ### About the project
 An application designed to analyze .txt files and detect plagiarism.<br>
-The main app incorporates[three components](Modulos):
+The main app incorporates [three components](Modulos):
 <ul>
 <li>Stochastic Counter</li>
 <li>Counting Bloom Filter</li>
