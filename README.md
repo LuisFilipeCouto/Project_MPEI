@@ -14,5 +14,5 @@ The existing .txt files serve to test the [main app](DemonstracaoConjunta/Main.j
 ### Detailed description/usage
 Read the project report -> [**RelatorioMPEI.pdf**](RelatorioMPEI.pdf).
 
-### Programming Languages
+### Programming/Scripting/Markup Languages
 `Java`
