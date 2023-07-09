@@ -7,7 +7,7 @@ The [**main application**](DemonstracaoConjunta/Main.java) incorporates three ke
   - [**Counting Bloom Filter**](Modulos/CountingBloomFilter.java)
   - [**MinHash**](Modulos/MinHash.java)
 
-The key components have been verified through module testing. These tests can be done by executing the corresponding module [test file](TestesModulos/)
+The key components have been verified through module testing. These tests can be done by executing the corresponding [module test file](TestesModulos/)
 
 ### Detailed description/usage
 Read the project report -> [**RelatorioMPEI.pdf**](RelatorioMPEI.pdf)
