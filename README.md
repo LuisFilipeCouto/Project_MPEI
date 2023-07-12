@@ -11,6 +11,3 @@ The key components have been verified through module testing. These tests can be
 
 ### Detailed description/usage
 Read the project report -> [**RelatorioMPEI.pdf**](RelatorioMPEI.pdf)
-
-### Programming/Scripting/Markup Languages
-`Java`
